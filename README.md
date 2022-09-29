@@ -8,7 +8,7 @@ Daily picks of interesting DSA problems.
 |3| Easy|Two Sum|Array|[Leetcode](https://leetcode.com/problems/two-sum/)|anshul-16|
 |4| Easy|Merge Sorted Array|Array, Sorting|[Leetcode](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan&id=data-structure-i)|anshul-16|
 |5| Easy|Best Time to Buy and Sell Stock|Array, Dynamic Programming|[Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|anshul-16|
-|6| ||||suchita-mehta|
+|6| Easy|Find all numbers that have atleast three numbers greater than them.|Priority Queue|[Question](github link here)|suchita-mehta|
 |7| Medium|Valid Sudoku|Array, Hash Table, Matrix|[Leetcode](https://leetcode.com/problems/valid-sudoku/)|anshul-16|
 
 ### JAVA Collection Hierarchy
